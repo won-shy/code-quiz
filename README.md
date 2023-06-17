@@ -26,3 +26,9 @@ N/A
 
 ![Uploading screenshot-2.png…]()
 
+## Credits
+Questions from https://www.w3schools.com/
+
+## License
+MIT LICENSE
+
