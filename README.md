@@ -24,8 +24,6 @@ N/A
 ## Usage 
 <img width="1512" alt="screenshot-1" src="https://github.com/won-shy/code-quiz/assets/128438958/d573f8c9-43f3-44de-933e-ed96b90cc116">
 
-![Uploading screenshot-2.png…]()
-
 ## Credits
 Questions from https://www.w3schools.com/
 
