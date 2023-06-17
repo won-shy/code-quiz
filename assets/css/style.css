@@ -1,0 +1,101 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #CFE1FC;
+}
+
+header {
+    width: 96%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1%;
+    padding-bottom: 1%;
+    border-bottom: 2px solid rgb(50, 54, 53);
+}
+
+article {
+    margin: 0 auto;
+    max-width: 700px;
+}
+
+h1 {
+    padding-bottom: 2%;
+    font-size: 72px;
+    text-align: center;
+}
+
+button {
+    background-color: #1D3A66;
+    color: white;
+    opacity: 1;
+    padding: 0.5%;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 0 0 10px;
+}
+
+.welcome-screen {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+
+.welcome-screen p {
+    font-size: 16px;
+    padding-bottom: 2%;
+    line-height: 1.5;
+}
+
+button:hover {
+    opacity: 0.6;
+}
+
+.answers-display {
+    display: flex;
+    flex-direction: column;
+    padding-top: 2%;
+    align-items: flex-start;
+}
+
+.answers-button {
+    margin-bottom: 2%;
+}
+
+#answer {
+    text-align: center;
+    color: #76A2E3;
+}
+
+#all-done {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: start;
+}
+
+#all-done label {
+    margin-top: 2%;
+}
+
+#all-done button {
+    margin-top: 2%;
+}
+
+#view-highscores button {
+    margin-right: 2%;
+}
+
+.hide-content {
+    display: none;
+}
+
+.display-content {
+    display: contents;
+}
