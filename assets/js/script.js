@@ -17,18 +17,18 @@ const question = [
         answer: "1. onclick",
     },
     {
-        question: 'How do you call a function named "myFunction"?',
+        question: 'How do you declare a JavaScript variable?',
         choices: [
-            "1. call function myFunction()",
-            "2. myFunction()",
-            "3. call myFunction()",
+            "1. variable carName",
+            "2. var carName",
+            "3. v carName",
         ],
-        answer: "2. myFunction()",
+        answer: "2. var carName",
     },
     {
-        question: "How to write an IF statement in JavaScript?",
-        choices: ["1. if i = 5", "2. if i = 5 then", "3. if (i == 5)"],
-        answer: "3. if (i == 5)",
+        question: "How can you add a comment in a JavaScript?",
+        choices: ["1. //This is a comment", "2. *This is a comment*", "3. 'This is a comment'"],
+        answer: "1. //This is a comment",
     },
     {
         question: "How does a FOR loop start?",
